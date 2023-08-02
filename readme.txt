@@ -19,7 +19,7 @@ If not, download and install MATLAB Runtime for R2023a from the following link o
 2. Files needed for proper execution and operation
 ==================================================
 
-- TratamientoImagen.exe
+- TratamientoImagen.exe (you can download it from the "Releases" section on the right side of this repository)
 - This readme file 
 
 Image processing:
