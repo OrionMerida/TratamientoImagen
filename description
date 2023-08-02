@@ -1,6 +1,6 @@
 We provide the following files required for execution:
-- D501nm.m and D601nm.m: D50 and D60 Illuminants
-- CalibrationWhiteReference.m: MatLab file for adjusting the white calibration
+- D501nm.mat and D601nm.mat: D50 and D60 Illuminants
+- CalibrationWhiteReference.mat: MatLab file for adjusting the white calibration
 - Observer.txt: response of the CIE 2º standard observer to light, containing the wavelengths and the corresponding color matching functions (X, Y, Z)
 
 You will need to create a folder with these files and the executable.
