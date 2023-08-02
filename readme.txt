@@ -25,8 +25,8 @@ If not, download and install MATLAB Runtime for R2023a from the following link o
 Image processing:
 
 - 6 Hyperspectral ENVI files: raw, whiteReference and darkReference (data and header for each one of them)
-- Illuminant (*.m): D50, D60... your choice
-- Calibration White reference (*.m): MatLab file for adjusting the white calibration, since the reflectance of the target device can be damaged over time.
+- Illuminant (*.mat): D50, D60... your choice
+- Calibration White reference (*.mat): MatLab file for adjusting the white calibration, since the reflectance of the target device can be damaged over time.
 - Standard Observer (*.txt): response of the standard observer to light, containing the wavelengths and the corresponding color matching functions (X, Y, Z)
 
 You need to provide at least the 6 hyperspectral files, generated with a hyperspectral camera.
